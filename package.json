@@ -1,6 +1,6 @@
 {
   "name": "minshop",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.",
   "main": "src/index.ts",
   "scripts": {
