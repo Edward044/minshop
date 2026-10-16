@@ -9,3 +9,4 @@ tmp/
 .cache/
 coverage/
 .pytest_cache/
+.vscode/
